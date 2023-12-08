@@ -14,10 +14,10 @@ This project demonstrates a simple file encryption and decryption system using P
 
 - **ClientA.py**: Code for the ClientA application, responsible for sending encrypted messages or files.
 - **ClientB.py**: Code for the ClientB application, responsible for receiving and decrypting messages or files.
-- **A_public_key.pem**: Public key file for ClientA.
-- **A_private_key.pem**: Private key file for ClientA.
-- **B_public_key.pem**: Public key file for ClientB.
-- **B_private_key.pem**: Private key file for ClientB.
+- **A_public_key.pem**: Public key file for ClientA. (Automatically generated if not exists)
+- **A_private_key.pem**: Private key file for ClientA. (Automatically generated if not exists)
+- **B_public_key.pem**: Public key file for ClientB. (Automatically generated if not exists)
+- **B_private_key.pem**: Private key file for ClientB. (Automatically generated if not exists)
 
 ## Requirements
 
