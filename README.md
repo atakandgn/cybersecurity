@@ -37,3 +37,6 @@ This project demonstrates a simple file encryption and decryption system using P
 
 - Ensure that the required libraries are installed using `pip install -r requirements.txt`.
 - This is a simple educational project and may not be suitable for production use without further enhancements and security considerations.
+
+### For communication
+-  Reach out to atakandogan.info@gmail.com or [LinkedIn](https://www.linkedin.com/in/atakandoan/) 

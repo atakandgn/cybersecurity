@@ -1,4 +1,4 @@
-# ClientA.py
+# https://github.com/atakandgn/cybersecurity/blob/main/README.md
 import socket
 import os
 from cryptography.hazmat.primitives.kdf.pbkdf2 import PBKDF2HMAC
