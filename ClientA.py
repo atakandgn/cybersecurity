@@ -87,7 +87,8 @@ def send_file(choice, file_path):
     except Exception as e:
         # Display an error message if the connection fails
         print("Connection error:", str(e))
-        show_error_message("Connection Error", "Could not establish a connection with the server.")
+        show_error_message("Connection Error", "Could not establish a connection with the server." + "\n" + 
+                           "Please RUN  ClientB.py and click 'Receive File' button for connection.")
         return
 
     with open(file_path, 'rb') as file:
